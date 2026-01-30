@@ -1,0 +1,14 @@
+{
+  "display":{
+    "icon":{"item":"minecraft:arrow"},
+    "title":{"text":"Materialschlacht I - Bronze"},
+    "description":{"text":"50.000 Schuss abgefeuert"},
+    "frame":"task",
+    "show_toast":false,
+    "announce_to_chat":false,
+    "hidden":false
+  },
+  "criteria":{
+    "impossible":{"trigger":"minecraft:impossible"}
+  }
+}

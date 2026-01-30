@@ -1,0 +1,14 @@
+{
+  "display":{
+    "icon":{"item":"minecraft:dragon_head"},
+    "title":{"text":"Der Unaufhaltsame"},
+    "description":{"text":"Maximales Prestige dreimal erreicht"},
+    "frame":"challenge",
+    "show_toast":false,
+    "announce_to_chat":false,
+    "hidden":false
+  },
+  "criteria":{
+    "impossible":{"trigger":"minecraft:impossible"}
+  }
+}

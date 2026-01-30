@@ -1,0 +1,14 @@
+{
+  "display":{
+    "icon":{"item":"minecraft:clock"},
+    "title":{"text":"Dienstältester II - Silber"},
+    "description":{"text":"500 Stunden Spielzeit erreicht"},
+    "frame":"goal",
+    "show_toast":false,
+    "announce_to_chat":false,
+    "hidden":false
+  },
+  "criteria":{
+    "impossible":{"trigger":"minecraft:impossible"}
+  }
+}

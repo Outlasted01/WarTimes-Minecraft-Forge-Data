@@ -1,0 +1,14 @@
+{
+  "display":{
+    "icon":{"item":"minecraft:banner"},
+    "title":{"text":"Eroberer der Epochen I - Bronze"},
+    "description":{"text":"50 Runden pro Seite gewonnen"},
+    "frame":"task",
+    "show_toast":false,
+    "announce_to_chat":false,
+    "hidden":false
+  },
+  "criteria":{
+    "impossible":{"trigger":"minecraft:impossible"}
+  }
+}

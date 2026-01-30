@@ -1,0 +1,14 @@
+{
+  "display":{
+    "icon":{"item":"minecraft:shield"},
+    "title":{"text":"Bollwerk I - Bronze"},
+    "description":{"text":"500 Defensiv-Kills erreicht"},
+    "frame":"task",
+    "show_toast":false,
+    "announce_to_chat":false,
+    "hidden":false
+  },
+  "criteria":{
+    "impossible":{"trigger":"minecraft:impossible"}
+  }
+}

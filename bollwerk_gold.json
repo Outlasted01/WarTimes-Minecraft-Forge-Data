@@ -1,0 +1,14 @@
+{
+  "display":{
+    "icon":{"item":"minecraft:netherite_helmet"},
+    "title":{"text":"Bollwerk III - Gold"},
+    "description":{"text":"10.000 Defensiv-Kills erreicht - Die unbezwingbare Festung"},
+    "frame":"challenge",
+    "show_toast":false,
+    "announce_to_chat":false,
+    "hidden":false
+  },
+  "criteria":{
+    "impossible":{"trigger":"minecraft:impossible"}
+  }
+}

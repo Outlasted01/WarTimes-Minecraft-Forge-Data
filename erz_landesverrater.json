@@ -1,0 +1,14 @@
+{
+  "display":{
+    "icon":{"item":"minecraft:skull","nbt":{"SkullOwner":""}},
+    "title":{"text":"Erz-Landesverräter"},
+    "description":{"text":"1.000 Team-Kills insgesamt - dieser Titel ist unwiderruflich"},
+    "frame":"challenge",
+    "show_toast":false,
+    "announce_to_chat":false,
+    "hidden":false
+  },
+  "criteria":{
+    "impossible":{"trigger":"minecraft:impossible"}
+  }
+}

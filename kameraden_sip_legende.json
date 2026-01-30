@@ -1,0 +1,14 @@
+{
+  "display":{
+    "icon":{"item":"minecraft:calendar"},
+    "title":{"text":"Kameraden-Sip Legende"},
+    "description":{"text":"An 12 monatlichen Community-Events teilgenommen"},
+    "frame":"goal",
+    "show_toast":false,
+    "announce_to_chat":false,
+    "hidden":false
+  },
+  "criteria":{
+    "impossible":{"trigger":"minecraft:impossible"}
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "display":{
+    "icon":{"item":"minecraft:totem_of_undying"},
+    "title":{"text":"Eroberer der Epochen III - Gold"},
+    "description":{"text":"500 Runden pro Seite gewonnen - Kriegsherr beider Welten"},
+    "frame":"challenge",
+    "show_toast":false,
+    "announce_to_chat":false,
+    "hidden":false
+  },
+  "criteria":{
+    "impossible":{"trigger":"minecraft:impossible"}
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "display":{
+    "icon":{"item":"minecraft:shield"},
+    "title":{"text":"Bollwerk II - Silber"},
+    "description":{"text":"2.500 Defensiv-Kills erreicht"},
+    "frame":"goal",
+    "show_toast":false,
+    "announce_to_chat":false,
+    "hidden":false
+  },
+  "criteria":{
+    "impossible":{"trigger":"minecraft:impossible"}
+  }
+}

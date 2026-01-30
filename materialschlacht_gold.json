@@ -1,0 +1,14 @@
+{
+  "display":{
+    "icon":{"item":"minecraft:diamond_chestplate"},
+    "title":{"text":"Materialschlacht III - Gold"},
+    "description":{"text":"1.000.000 Schuss abgefeuert - Rüstungsminister"},
+    "frame":"challenge",
+    "show_toast":false,
+    "announce_to_chat":false,
+    "hidden":false
+  },
+  "criteria":{
+    "impossible":{"trigger":"minecraft:impossible"}
+  }
+}
